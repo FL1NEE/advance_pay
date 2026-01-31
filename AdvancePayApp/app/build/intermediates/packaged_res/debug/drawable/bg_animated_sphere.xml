@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Glow outer -->
+    <item>
+        <shape android:shape="oval">
+            <gradient
+                android:type="radial"
+                android:gradientRadius="50%p"
+                android:startColor="#40E62E2E"
+                android:endColor="#00000000" />
+        </shape>
+    </item>
+    <!-- Main sphere gradient -->
+    <item
+        android:left="10dp"
+        android:top="10dp"
+        android:right="10dp"
+        android:bottom="10dp">
+        <shape android:shape="oval">
+            <gradient
+                android:type="radial"
+                android:gradientRadius="70%p"
+                android:startColor="#E62E2E"
+                android:centerColor="#8B5CF6"
+                android:endColor="#4C1D95"
+                android:angle="135" />
+        </shape>
+    </item>
+    <!-- Inner highlight -->
+    <item
+        android:left="15dp"
+        android:top="15dp"
+        android:right="35dp"
+        android:bottom="35dp">
+        <shape android:shape="oval">
+            <gradient
+                android:type="radial"
+                android:gradientRadius="100%p"
+                android:startColor="#40FFFFFF"
+                android:endColor="#00FFFFFF" />
+        </shape>
+    </item>
+</layer-list>

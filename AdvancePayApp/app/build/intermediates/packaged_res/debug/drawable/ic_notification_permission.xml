@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    <!-- Круг фон -->
+    <path
+        android:fillColor="#20E62E2E"
+        android:pathData="M60,60m-55,0a55,55 0,1 1,110 0a55,55 0,1 1,-110 0" />
+    <!-- Колокольчик -->
+    <path
+        android:fillColor="#E62E2E"
+        android:pathData="M60,25c-12.15,0 -22,9.85 -22,22v18l-6,6v4h56v-4l-6,-6V47c0,-12.15 -9.85,-22 -22,-22zM60,95c4.42,0 8,-3.58 8,-8H52c0,4.42 3.58,8 8,8z" />
+    <!-- Молния на колокольчике -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M62,40L55,55H61L59,70L68,52H61L62,40Z" />
+</vector>

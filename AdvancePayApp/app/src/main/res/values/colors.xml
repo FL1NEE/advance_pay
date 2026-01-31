@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- AdvancePay Brand Colors (Dark Theme) -->
+    <color name="primary">#E62E2E</color>           <!-- Red -->
+    <color name="primary_dark">#CC2626</color>
+    <color name="primary_light">#FF4040</color>
+
+    <color name="secondary">#8B5CF6</color>         <!-- Purple -->
+    <color name="secondary_dark">#7C3AED</color>
+    <color name="secondary_light">#A78BFA</color>
+
+    <!-- Background Colors (Dark Theme) -->
+    <color name="background">#0A0A0A</color>        <!-- Almost Black -->
+    <color name="surface">#141414</color>           <!-- Dark Gray -->
+    <color name="surface_variant">#1F1F1F</color>
+
+    <!-- Text Colors -->
+    <color name="on_background">#F2F2F2</color>     <!-- Light Gray -->
+    <color name="on_surface">#F2F2F2</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="on_secondary">#FFFFFF</color>
+
+    <!-- Status Colors -->
+    <color name="status_working">#4ADE80</color>    <!-- Green -->
+    <color name="status_error">#E62E2E</color>      <!-- Red -->
+    <color name="status_warning">#FBBF24</color>    <!-- Amber -->
+    <color name="status_pending">#8B5CF6</color>    <!-- Purple -->
+
+    <!-- Border & Divider -->
+    <color name="border">#2D2D2D</color>
+    <color name="divider">#1F1F1F</color>
+
+    <!-- Additional -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="transparent">#00000000</color>
+</resources>

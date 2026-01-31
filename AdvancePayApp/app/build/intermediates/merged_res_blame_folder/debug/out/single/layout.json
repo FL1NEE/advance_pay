@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.advancepay.app-mergeDebugResources-46:/layout/activity_history.xml",
+        "source": "com.advancepay.app-main-49:/layout/activity_history.xml"
+    },
+    {
+        "merged": "com.advancepay.app-mergeDebugResources-46:/layout/activity_login.xml",
+        "source": "com.advancepay.app-main-49:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.advancepay.app-mergeDebugResources-46:/layout/activity_main.xml",
+        "source": "com.advancepay.app-main-49:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.advancepay.app-mergeDebugResources-46:/layout/item_notification.xml",
+        "source": "com.advancepay.app-main-49:/layout/item_notification.xml"
+    },
+    {
+        "merged": "com.advancepay.app-mergeDebugResources-46:/layout/activity_permission.xml",
+        "source": "com.advancepay.app-main-49:/layout/activity_permission.xml"
+    }
+]

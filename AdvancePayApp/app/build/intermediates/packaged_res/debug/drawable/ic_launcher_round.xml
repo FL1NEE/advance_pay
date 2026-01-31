@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Dark circular background -->
+    <path
+        android:fillColor="#0A0A0A"
+        android:pathData="M54,54m-54,0a54,54 0,1 1,108 0a54,54 0,1 1,-108 0" />
+    <!-- Red lightning bolt -->
+    <path
+        android:fillColor="#E62E2E"
+        android:pathData="M58,18L30,58H50L46,90L74,50H54L58,18Z" />
+</vector>

@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "com.advancepay.app-merged_res-47:/drawable_bg_logo_glow.xml.flat",
+        "source": "com.advancepay.app-main-49:/drawable/bg_logo_glow.xml"
+    },
+    {
+        "merged": "com.advancepay.app-merged_res-47:/drawable_ic_lightning_small.xml.flat",
+        "source": "com.advancepay.app-main-49:/drawable/ic_lightning_small.xml"
+    },
+    {
+        "merged": "com.advancepay.app-merged_res-47:/layout_activity_main.xml.flat",
+        "source": "com.advancepay.app-main-49:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.advancepay.app-merged_res-47:/drawable_ic_notification.xml.flat",
+        "source": "com.advancepay.app-main-49:/drawable/ic_notification.xml"
+    },
+    {
+        "merged": "com.advancepay.app-merged_res-47:/layout_activity_login.xml.flat",
+        "source": "com.advancepay.app-main-49:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.advancepay.app-merged_res-47:/layout_activity_permission.xml.flat",
+        "source": "com.advancepay.app-main-49:/layout/activity_permission.xml"
+    },
+    {
+        "merged": "com.advancepay.app-merged_res-47:/layout_item_notification.xml.flat",
+        "source": "com.advancepay.app-main-49:/layout/item_notification.xml"
+    },
+    {
+        "merged": "com.advancepay.app-merged_res-47:/drawable_ic_snowflake.xml.flat",
+        "source": "com.advancepay.app-main-49:/drawable/ic_snowflake.xml"
+    },
+    {
+        "merged": "com.advancepay.app-merged_res-47:/drawable_ic_lock.xml.flat",
+        "source": "com.advancepay.app-main-49:/drawable/ic_lock.xml"
+    },
+    {
+        "merged": "com.advancepay.app-merged_res-47:/xml_backup_rules.xml.flat",
+        "source": "com.advancepay.app-main-49:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.advancepay.app-merged_res-47:/drawable_bg_gradient_circle.xml.flat",
+        "source": "com.advancepay.app-main-49:/drawable/bg_gradient_circle.xml"
+    },
+    {
+        "merged": "com.advancepay.app-merged_res-47:/xml_data_extraction_rules.xml.flat",
+        "source": "com.advancepay.app-main-49:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.advancepay.app-merged_res-47:/drawable_ic_person.xml.flat",
+        "source": "com.advancepay.app-main-49:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "com.advancepay.app-merged_res-47:/drawable_ic_lightning.xml.flat",
+        "source": "com.advancepay.app-main-49:/drawable/ic_lightning.xml"
+    },
+    {
+        "merged": "com.advancepay.app-merged_res-47:/layout_activity_history.xml.flat",
+        "source": "com.advancepay.app-main-49:/layout/activity_history.xml"
+    },
+    {
+        "merged": "com.advancepay.app-merged_res-47:/drawable_bg_animated_sphere.xml.flat",
+        "source": "com.advancepay.app-main-49:/drawable/bg_animated_sphere.xml"
+    },
+    {
+        "merged": "com.advancepay.app-merged_res-47:/drawable_ic_launcher.xml.flat",
+        "source": "com.advancepay.app-main-49:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "com.advancepay.app-merged_res-47:/drawable_ic_launcher_round.xml.flat",
+        "source": "com.advancepay.app-main-49:/drawable/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.advancepay.app-merged_res-47:/drawable_ic_notification_permission.xml.flat",
+        "source": "com.advancepay.app-main-49:/drawable/ic_notification_permission.xml"
+    },
+    {
+        "merged": "com.advancepay.app-merged_res-47:/drawable_status_circle.xml.flat",
+        "source": "com.advancepay.app-main-49:/drawable/status_circle.xml"
+    }
+]
